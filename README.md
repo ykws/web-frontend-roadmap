@@ -13,10 +13,13 @@ Visualization to learn Web frontend
 * [Vue CLI](https://github.com/vuejs/vue-cli): Setup Vue Application
 
 ## Vue.js
-* [Vue.js]()
+* Vue.js
   * Reactive
   * MVVM
 * Flux
   * Vuex
 * [Nuxt.js](https://github.com/ykws/hello-nuxtjs)
 * Vuetify
+
+### Practice
+* [Explore GitHub Repositories with Vue.js](https://github.com/ykws/vue-github-explore)
