@@ -10,20 +10,20 @@ Visualization to learn Web frontend
 ## Basic tools
 * [Node.js](https://github.com/ykws/hello-node): JavaScript Runtime
 * [yarn](https://github.com/yarnpkg/yarn): Setup JavaScript Application
-* [Vue CLI](https://github.com/vuejs/vue-cli): Setup Vue Application
 
 ## Key concepts
 * Declarative
 * Reactive
 * MVVM
+* Flux
 
 ## Realize code set
 * [Vue.js](https://vuejs.org)
 * [Knockout.js](https://knockoutjs.com/)
 
 ### Vue.js
-* Flux
-  * Vuex
+* [Vue CLI](https://github.com/vuejs/vue-cli)
+* Vuex
 * [Nuxt.js](https://github.com/ykws/hello-nuxtjs)
 * Vuetify
 
