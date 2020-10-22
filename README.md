@@ -20,6 +20,7 @@ Visualization to learn Web frontend
 ## Realize code set
 * [Vue.js](https://vuejs.org)
 * [Knockout.js](https://knockoutjs.com/)
+* [TypeScript](https://www.typescriptlang.org/) 
 
 ### Vue.js
 * [Vue CLI](https://github.com/vuejs/vue-cli)
@@ -32,3 +33,6 @@ Visualization to learn Web frontend
 
 ### Knockout.js
 * [Hello, Knockout.js](https://github.com/ykws/hello-knockoutjs)
+
+### TypeScript
+* [Hello, TypeScript](https://github.com/ykws/hello-typescript)
